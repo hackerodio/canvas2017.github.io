@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sobre Html
+title:ola qe aze
 date: 2018-08-20
-description: Las etiquetas de HTML básicas
+description:Los calvos ser malos en las películas.
 img: html-img.jpg 
 fig-caption: 
-tags: [Tecnología, Programación]
+tags: [Cualquier cosa-]
 ---
 
