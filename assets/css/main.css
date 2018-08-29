@@ -772,10 +772,10 @@ html {
   line-height: 1.5;
 }
 
-body {
+body {;
   font-family: 'Open Sans', sans-serif;
   color: #1f2c33;
-  background-color: #ebebeb;
+  background-color: ##ff0;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
