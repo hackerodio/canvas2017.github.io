@@ -1,11 +1,33 @@
+
 title: Trump es   reptiliano
 description:  Hola que aze.
 permalink: ':title/'
 baseurl: "/" 
 url: "https://canvas2017.github.io" 
+site-twitter: 
 
 
 author: Sé más que un blogger  
 author-img: logo-pie.png  
 about-author: odio a Peppa Pig ,Caillou y Pocoyo.
 
+
+
+
+# Disqus
+discus-identifier:  
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
