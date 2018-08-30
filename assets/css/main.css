@@ -1061,7 +1061,7 @@ table tfoot td {
   background-color:  #ff784f;
 }
 nav ul li a.active {
-	background: #3281b2;
+	background: #000000;
 	color: #ffffff;
 }
 nav ul li a:hover {
